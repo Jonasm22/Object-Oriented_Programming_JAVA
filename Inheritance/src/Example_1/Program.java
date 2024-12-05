@@ -5,8 +5,8 @@ public class Program {
         Employee employee = new Employee(
 
         );
-
         System.out.println(employee.getAdress());
+
 
 
 
